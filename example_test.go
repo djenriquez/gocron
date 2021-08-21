@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/go-co-op/gocron"
+	"github.com/djenriquez/gocron"
 )
 
 var task = func() {}
